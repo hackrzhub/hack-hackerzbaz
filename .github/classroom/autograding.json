@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "c",
+      "setup": "shuffle round busy awkward exotic combine pen lava cream around deposit rescue",
+      "run": "shuffle round busy awkward exotic combine pen lava cream around deposit rescue",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
